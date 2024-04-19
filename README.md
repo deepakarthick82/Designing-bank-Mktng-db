@@ -20,5 +20,12 @@ You have been asked to design a database that will have three tables:
 
 ![client](https://github.com/deepakarthick82/Designing-bank-Mktng-db/assets/145708256/6096e6a0-aae6-48d1-a904-96afc1997b1b)
 
+
+
+![campaign](https://github.com/deepakarthick82/Designing-bank-Mktng-db/assets/145708256/84d9ccbe-d6cd-4648-9f24-0f8797fb2544)
+
+![economics](https://github.com/deepakarthick82/Designing-bank-Mktng-db/assets/145708256/cad59540-1a50-4335-848a-612eb5b79cd8)
+
+
 #Project Task
 View the notebook to see the project tasks and all expected output for each task and finally see how to successfully load the data into a PostgreSQL database after cleaning and getting it ready.
