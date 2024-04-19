@@ -1,2 +1,3 @@
 # Designing-bank-Mktng-db
-This is my solution to DataCamp's project: Designing a Bank Marketing Database; which involved cleaning and structuring csv data using Python to enable the creation of a postgreSQL database to hold information about bank marketing campaigns.
+
+![piggy_bank](https://github.com/deepakarthick82/Designing-bank-Mktng-db/assets/145708256/5be513b4-8edb-4332-bf26-21c8fd215e4c)
